@@ -1,2 +1,1 @@
-This is my personal portfolio website that I'm making for Codecademy Premium. 
-Stay tuned for bigger and better changes!
+# This is my first website project for Codecademy Premium
