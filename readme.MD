@@ -1,3 +1,3 @@
-# This is my personal portfolio website for Codecademy Premium  
+# Max's homepage  
 
-Stay tuned for bigger and better changes
+Stay tuned for bigger and better projects
